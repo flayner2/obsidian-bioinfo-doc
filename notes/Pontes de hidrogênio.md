@@ -1,0 +1,3 @@
+# Pontes de hidrogênio
+As [[Bases nitrogenadas|bases nitrogenadas]] nas cadeias de DNA estão pareadas com suas bases complementares através de pontes de hidrogênio na fita dupla de DNA. Normalmente, átomos de hidrogênio fazem apenas uma ligação covalente com outro átomo. Entretanto, graças à presença de grupos **ceto** (C=O) e **amínico** (C-NH₂) nas bases nitrogenadas, o hidrogênio pode formar associações fracas extra.
+Entre **T** ou **U** e **A**, são formadas **duas** pontes de hidrogênio; entre **C** e **G**, são formadas **três** pontes de hidrogênio.

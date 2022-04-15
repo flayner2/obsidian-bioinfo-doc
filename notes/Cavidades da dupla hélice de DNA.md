@@ -1,0 +1,2 @@
+# Cavidades da dupla hélice de DNA
+As [[Bases nitrogenadas|ligações glicosídicas]] na dupla hélice do DNA não estão em disposição exatamente oposta e, por isso, acabam gerando dois tipos de sulcos ou cavidades na estrutura da molécula: a **cavidade maior** e a **cavidade menor**. Nessas cavidades, especialmente na maior, as bases estão expostas e são acessíveis à proteínas que podem reconhecê-las e interagir com o DNA sem precisar romper a fita.

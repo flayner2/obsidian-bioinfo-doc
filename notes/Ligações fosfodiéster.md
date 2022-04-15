@@ -1,0 +1,2 @@
+# Ligações fosfodiéster
+Na molecula de DNA, os [[Nucleotídeo|desoxirribonucletídeos]] estão unidos entre si por ligações covalentes conhecidas como **pontes fosfodiéster**, entre o grupamento fosfato (*5'-P*) e o grupamento hidroxila (*3'-OH*) do carbono 3' do nucleotídeo adjancente. Isso confere ==direcionalidade== à estrutura do polinucleotídeo.
