@@ -1,0 +1,4 @@
+# Tipos de DNA
+Existem três tipos de DNA encontrados em condições fisiológicas: **DNA tipo B**, **DNA tipo A** e **DNA tipo Z**. Esses tipos são gerados pela composição de [[Bases nitrogenadas|bases]], meio em que se encontram ou devido a sua ligação com certas proteínas. Nos três tipos, as cadeias de DNA formam a hélice dupla. O que diferencia esses três tipos de DNA é ==a sua expessura, o número de pares de base por volta da hélice, e a exposição de bases nitrogenadas ao meio externo==.
+
+O **DNA tipo B** é o fisiológico e majoritariamente encontrado nas células (é o DNA de hélice dupla clássico, descrito por Watson e Crick). O **DNA tipo A** ocorre em condições de umidade muito baixa e quando fitas mistas de DNA-RNA (durante a transcrição) e fitas duplas de RNA (genomas de vírus, tRNA e rRNA nas células) são formadas. O **DNA tipo Z** ocorre em regiões curtas do DNA, onde existem sequências de citosinas e guaninas seguidas.
