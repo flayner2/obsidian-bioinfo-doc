@@ -1,0 +1,8 @@
+# Famílias multigênicas
+Em eucariotos, assim como em procariotos, a presença de genes parálogos indica a existência de eventos ancestrais de duplicação gênica. Em procariotos, ==forças evolutivas atuam em contrário à formação e manutenção de parálogos== (pois em procariotos há uma pressão evolutiva para genomas mais "*econômicos*"). Já em eucariotos, essas restrições evolutivas são menores e, ao longo da evolução, ocorreu o surgimento de **famílias multigênicas**, que são típicas de eucariotos.
+
+Cada uma dessas famílias possui vários membros, cada um deles codificando uma variante de um determinado tipo de proteína. Em geral, cada variante possui uma similaridade estrutural e funcional, mas algumas particularidades (como padrões de expressão espaciais e/ou temporais) além de algum nível de especialização funcional podem as diferenciar umas das outras.
+
+O número de genes de uma família multigênica e a distribuição desses genes ao longo dos cromossomos podem variar de espécie para espécie.
+
+Por causa de sua origem ligada à duplicação gênica, novos genes membros de uma família multigênica tendem a estar muito próximos em uma mesma região cromossômica. Eventos como splicing alternativo e recombinação, ao longo do tempo, atuam para dispersar os membros das famílias multigênicas em um mesmo cromossomo ou em cromossomos diferentes, mas pressões evolutivas podem atuar em sentido contrário, favorecendo a manutenção dos agrupamentos gênicos em razão da ocorrência de mecanismos de regulação coordenada.
